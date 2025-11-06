@@ -72,3 +72,4 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Plugins/CustomViewport/.DS_Store
+.DS_Store
